@@ -1,0 +1,132 @@
+{
+  "title": "I'raabify",
+  "subtitle": "Classical Arabic Morphosyntactic Tahqiq & Quran-Backed Encyclopedic History",
+  "tab_analyzer": "11-Tier Tahqiq & Tarqeeb",
+  "tab_history": "Encyclopedic Grammar History",
+  "tab_lexicon": "Lexicon & Permutations",
+  "scribe_placeholder": "Enter any Arabic text or sentence...",
+  "btn_analyze": "Execute Comprehensive 11-Tier Analysis",
+  "root": "1. Consonantal Root (al-Jidhr)",
+  "pattern": "2. Morphological Wazn (al-Mizan)",
+  "seegah": "3. Morphological Category (al-Seegah)",
+  "meaning": "4. Lexical Lemma Gloss (al-Ma'na)",
+  "role": "5. Syntactic Station (Mawqi' I'rabi)",
+  "governor": "6. Governing Regent (al-'Amil)",
+  "case": "7. Inflectional Status (Hukm al-I'rab)",
+  "attachment": "8. Syntactic Attachment (al-Ta'alluq)",
+  "skip_intro": "Proceed to Dashboard",
+  "history_title": "Exhaustive Academic & Scriptural History of Arabic Linguistics",
+  "history_subtitle": "Rigorous Synthesis of Divine Revelation, Sahih Hadiths, Epigraphic Archaeology, and Computational Parsing",
+  "history_items": [
+    {
+      "category": "Divine Revelation & Primordial Semiotics",
+      "period": "Ante-Temporal • Genesis of Speech",
+      "title": "Adam (AS), The Divine Tuition of Names, and the Faculty of al-Bayan",
+      "thesis": "Human linguistic capacity originates not from random acoustic mimicry, but from a Divinely endowed semiotic infrastructure implanted directly into Adam (AS).",
+      "dalil_ar": "وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ",
+      "dalil_ref": "Surah Al-Baqarah, 2:31",
+      "tashrih": "Ibn Kathir notes from Ibn Abbas that Adam was instructed in the names and fundamental essences of all things. However, Ibn Kathir and Ibn Taymiyyah (Majmu' al-Fatawa, Vol. 8) explicitly clarified: 'Islamic dogma does not dogmatically declare Arabic as the sole language spoken by Adam.' Rather, Allah endowed mankind with innate expressive capability: «خَلَقَ الْإِنسَانَ * عَلَّمَهُ الْبَيَانَ» (Surah Ar-Rahman, 55:3-4).",
+      "academic_notes": "Linguistically, primordial human speech diverged over millennia into major language phylogenies, with Proto-Semitic occupying a central Afroasiatic locus."
+    },
+    {
+      "category": "Linguistic Typology & Ancient Arabia",
+      "period": "c. 4000 – 2000 BCE",
+      "title": "Proto-Semitic Divergence, Language Diversity, and Ancient Arabian Prophets",
+      "thesis": "Linguistic variation is an ontological cosmic sign of Divine wisdom rather than an arbitrary historical accident.",
+      "dalil_ar": "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ",
+      "dalil_ref": "Surah Ar-Rum, 30:22",
+      "tashrih": "Proto-Semitic diverged into Northwest Semitic (Ugaritic, Aramaic, Hebrew) and Central Semitic (Arabic). The Prophet ﷺ stated: 'Among the prophets, four were originally Arab: Hud, Salih, Shu'ayb, and your Prophet (Muhammad)' (Sahih Ibn Hibban: 361), corroborating the antiquity of ancient Arabian tongues (Ad and Thamud) preceding Classical Arabic.",
+      "academic_notes": "Proto-Semitic introduced non-concatenative triliteral consonantal root morphology, which reached its phonological and structural peak in Classical Arabic."
+    },
+    {
+      "category": "The Meccan Sanctuary & Ismail (AS)",
+      "period": "c. 1900 – 1800 BCE",
+      "title": "Ismail (AS), The Jurhum Tribe, and the Crystallization of Eloquent Arabic",
+      "thesis": "The linguistic fusion of Abrahamic prophetic articulation with indigenous Jurhumite idioms generated the Musta'ribah lineage.",
+      "dalil_ar": "أَوَّلُ مَنْ فَتَقَ اللَّهُ لِسَانَهُ بِالْعَرَبِيَّةِ الْمُبِينَةِ إِسْمَاعِيلُ، وَهُوَ ابْنُ أَرْبَعَ عَشْرَةَ سَنَةً",
+      "dalil_ref": "Al-Mu'jam al-Kabir by at-Tabarani; as-Silsilah as-Sahihah: 1689",
+      "tashrih": "Imam al-Bukhari narrates in Kitab al-Anbiya that Ismail was raised by Hajar in Mecca beside the Zamzam well, where the ancient Qahtanite tribe of Jurhum settled: «وَشَبَّ الْغُلَامُ وَتَعَلَّمَ الْعَرَبِيَّةَ مِنْهُمْ» ('The boy grew up and learned pure Arabic from them'). This established the Musta'ribah lineage from which Quraysh emerged.",
+      "academic_notes": "Historically, this marked the emergence of North Arabian speech as distinct from South Arabian epigraphic languages like Sabaic and Minaic."
+    },
+    {
+      "category": "Epigraphy & Script Archaeology",
+      "period": "9th Century BCE – 4th Century CE",
+      "title": "Ancient North Arabian Inscriptions and the Namara Nabataean Cursive",
+      "thesis": "The Arabic script directly descended from the Nabataean Aramaic cursive rather than South Arabian Musnad monumental script.",
+      "dalil_ar": "ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ",
+      "dalil_ref": "Surah Al-Qalam, 68:1",
+      "tashrih": "Ancient North Arabian (Safaitic, Dadanitic) inscriptions utilized the definite article [h-] or [hn-]. By contrast, the Namara Inscription (328 CE, Louvre Museum) transcribes Old Arabic syntax featuring the article [al-] in cursive Nabataean Aramaic script for King Imru' al-Qays.",
+      "academic_notes": "Epigraphists confirm that cursive Nabataean ligatures directly evolved into the skeletal Rasm of the early Quranic codices."
+    },
+    {
+      "category": "Pre-Islamic Poetic Koiné",
+      "period": "c. 500 – 610 CE",
+      "title": "The Mu'allaqat, Suq 'Ukaz, and the Elevated Trans-Tribal Register",
+      "thesis": "Pre-Islamic Arabia overcame tribal dialectal fragmentation by forging an elevated supradialectal poetic register (al-Arabiyyah al-Fusha).",
+      "dalil_ar": "وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ * أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ",
+      "dalil_ref": "Surah Ash-Shu'ara, 26:224-225",
+      "tashrih": "Poets competed annually at the cultural tribunal of Suq 'Ukaz. The finest seven odes were inscribed in gold and suspended on the Kaaba as the Mu'allaqat. This massive oral corpus preserved by professional transmitters (Rawis) provided the empirical citations (Shawahid) utilized by later grammarians.",
+      "academic_notes": "Classical Bedouin poetry preserved full case endings (I'rab) and complex metric constraints ('Arud) before formal grammatical treatises were authored."
+    },
+    {
+      "category": "Divine Inimitability (I'jaz)",
+      "period": "610 – 632 CE",
+      "title": "The Quranic Descent, Rhetorical Inimitability, and the Seven Ahruf",
+      "thesis": "The Holy Quran established an unparalleled linguistic sublime that transcended all human rhyme (Saj') and metric poetry.",
+      "dalil_ar": "إِنَّا أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ * قُل لَّئِنِ اجْتَمَعَتِ الْإِنسُ وَالْجِنُّ عَلَىٰ أَن يَأْتُوا بِمِثْلِ هَٰذَا الْقُرْآنِ لَا يَأْتُونَ بِمِثْلِهِ",
+      "dalil_ref": "Surah Yusuf, 12:2 and Surah Al-Isra, 17:88",
+      "tashrih": "The Quran unified tribal eloquence under a peerless literary standard. To accommodate regional dialectal ease, the Prophet ﷺ declared: «إِنَّ هَذَا الْقُرْآنَ أُنْزِلَ عَلَى سَبْعَةِ أَحْرُفٍ، فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ» ('This Quran was revealed in seven modes of recitation; recite whichever is easiest for you') (Sahih al-Bukhari: 4992).",
+      "academic_notes": "The Seven Ahruf represented phonological and lexical variations designed for ease of recitation, flawlessly preserved through the Mutawatir Qira'at."
+    },
+    {
+      "category": "The Canonization of the Codices",
+      "period": "644 – 656 CE",
+      "title": "The 'Uthmanic Recension and the Strategic Genius of Skeletal Rasm",
+      "thesis": "Caliph 'Uthman unified the global Muslim Ummah around a standardized consonantal skeleton accommodating canonical readings.",
+      "dalil_ar": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+      "dalil_ref": "Surah Al-Hijr, 15:9",
+      "tashrih": "Hudhayfah ibn al-Yaman alerted the Caliph to disputes between regional armies regarding recitation. 'Uthman commissioned Zayd ibn Thabit to produce master codices in the prestige Qurayshi register. These archetype codices intentionally lacked diacritical dots and vowels, allowing the Rasm to encompass all authentic canonical Qira'at.",
+      "academic_notes": "This skeletal orthography remains the immutable standard for all Quranic printing and grammatical validation to this day."
+    },
+    {
+      "category": "The Birth of Formal Grammar",
+      "period": "c. 660 – 688 CE",
+      "title": "Ali (RA), Abu al-Aswad al-Du'ali, and the Erasure of Solecisms (Lahn)",
+      "thesis": "Rapid non-Arab integration generated grammatical solecisms (Lahn), prompting the systematic codification of speech categories.",
+      "dalil_ar": "سَمِعَ أَبُو الْأَسْوَدِ مَنْ يَقْرَأُ: ﴿أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ وَرَسُولِهِ﴾ بِالْجَرِّ، فَقَالَ: مَعَاذَ اللَّهِ أَنْ يَبْرَأَ اللَّهُ مِنْ رَسُولِهِ! فَوَضَعَ النَّحْوَ",
+      "dalil_ref": "Akhbar an-Nahwiyyin by as-Sirafi; Tarikh Baghdad",
+      "tashrih": "After overhearing Surah At-Tawbah 9:3 misrecited with a genitive kasrah ('wa-rasulihi'), implying that Allah is disassociated from His Messenger, Abu al-Aswad took counsel with Caliph Ali (RA). Ali decreed: 'Speech consists of Nouns, Verbs, and Particles; follow this course (Inhu hadha al-nahw).' Abu al-Aswad then invented red vocalization dots for Fathah, Dammah, and Kasrah.",
+      "academic_notes": "Later under al-Hajjaj, Nasr ibn 'Asim and Yahya ibn Ya'mar introduced permanent black diacritical dots (I'jam) to differentiate homographic consonants."
+    },
+    {
+      "category": "The Basran Golden Age",
+      "period": "c. 750 – 796 CE",
+      "title": "Al-Khalil's Combinatorial Theory, Sibawayh's al-Kitab, and Operator Theory",
+      "thesis": "Sibawayh codified Operator Theory (Nazariyyat al-'Amil), establishing that case inflections are governed strictly by structural regents.",
+      "dalil_ar": "مَا صَنَّفَ أَحَدٌ فِي عِلْمِ النَّحْوِ كِتَابًا مِثْلَ كِتَابِ سِيبَوَيْهِ",
+      "dalil_ref": "Wafayat al-A'yan by Ibn Khallikan",
+      "tashrih": "Al-Khalil ibn Ahmad compiled the first phonetic dictionary (Kitab al-'Ayn) and calculated that 28 letters can theoretically yield 12,305,412 permutations across 2–5 radical matrices. His student Sibawayh authored 'Al-Kitab', the supreme encyclopedia of Arabic syntax. Sibawayh demonstrated that terminal vowels (Raf', Nasb, Jarr, Jazm) shift strictly under overt or implied governors ('Amil).",
+      "academic_notes": "Sibawayh's empirical fieldwork with conservative desert tribes established deductive analogy (Qiyas) as the scientific standard."
+    },
+    {
+      "category": "The Methodological Dialectic",
+      "period": "c. 770 – 928 CE",
+      "title": "Basra vs. Kufa: Deductive Rational Analogy vs. Empirical Attestation",
+      "thesis": "The rivalry between Basra and Kufa provided the analytical friction necessary to document every dialectal nuance of the Arabic language.",
+      "dalil_ar": "الْخِلَافُ النَّحْوِيُّ بَيْنَ الْبَصْرِيِّينَ وَالْكُوفِيِّينَ رَحْمَةٌ وَتَوْسِعَةٌ فِي فَهْمِ كَلَامِ اللَّهِ وَإِعْرَابِهِ",
+      "dalil_ref": "Al-Insaf fi Masa'il al-Khilaf by Ibn al-Anbari",
+      "tashrih": "The Basrans enforced rigid grammatical rules, rejecting anomalies. By contrast, the Kufan school (al-Kisa'i, al-Farra') accepted anomalous attested usage (Sama') and regional poetry as valid precedents. Ibn al-Sarraj later authored 'al-Usul fi al-Nahw' in Baghdad, synthesizing both approaches into a unified logical curriculum.",
+      "academic_notes": "Kufan empirical flexibility facilitated deep grammatical validation for rare Quranic readings and non-standard tribal idioms."
+    },
+    {
+      "category": "Post-Classical to Contemporary AI",
+      "period": "1204 – 2026 CE (Present)",
+      "title": "From the Alfiyyah of Ibn Malik to 11-Tier Neural Parsing and Transformers",
+      "thesis": "Classical Nahw has transitioned from medieval mnemonic versification into neural syntactic dependency graph models.",
+      "dalil_ar": "كَلَامُنَا لَفْظٌ مُفِيدٌ كَاسْتَقِمْ * وَاسْمٌ وَفِعْلٌ ثُمَّ حَرْفٌ الْكَلِمْ",
+      "dalil_ref": "Alfiyyah of Ibn Malik, Line 1",
+      "tashrih": "In Andalusia, Ibn Malik versified grammar into the 1,000-line Alfiyyah. In Egypt, Ibn Hisham revolutionized sentence syntax in 'Mughni al-Labib'. In 2026, tools like the Quranic Arabic Dependency Treebank (QADT), CAMeL Tools, and Irab.app process this 11-tier matrix automatically via transformer neural networks[cite: 1].",
+      "academic_notes": "State-of-the-art computational linguistic pipelines now process roots, templates, covert agents, and syntactic governance with over 99% accuracy on classical corpora[cite: 1]."
+    }
+  ]
+}
